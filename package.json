@@ -42,8 +42,11 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "superjson-remix",
-  "author": "Donavon West <github@donavon.com> (https://donavon.com/)",
+  "name": "@IvanLi-CN/superjson-remix",
+  "author": {
+    "name": "Ivan Li",
+    "url": "https://github.com/IvanLi-CN"
+  },
   "size-limit": [
     {
       "path": "dist/index.js",

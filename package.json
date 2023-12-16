@@ -42,10 +42,14 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@IvanLi-CN/superjson-remix",
+  "name": "@ivanli-cn/superjson-remix",
   "author": {
     "name": "Ivan Li",
     "url": "https://github.com/IvanLi-CN"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanLi-CN/superjson-remix"
   },
   "size-limit": [
     {
